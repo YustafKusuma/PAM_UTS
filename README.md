@@ -7,6 +7,9 @@
 Pada tugas UTS yang diberikan adalah membuat program aplikasi sederhana menggunakan React Native.
 Aplikasi yang dibuat adalah aplikasi catatan sederhana yang dapat dijalankan pada perangkat mobile.
 
+### Link Download
+https://expo.dev/accounts/yustafk/projects/notaking/builds/4e46f3ba-d106-47dd-bc39-55727ed30d6e
+
 ### Fitur Aplikasi
 Fitur yang terdapat pada aplikasi antara lain adalah :
 * Fitur melihat catatan pada antarmuka awal
