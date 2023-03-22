@@ -13,7 +13,8 @@ Fitur yang terdapat pada aplikasi antara lain adalah :
 * Fitur menambahkan catatan ke dalam database aplikasi
 
 ### Screenshot
-1. ![WhatsApp Image 2023-03-22 at 21 58 32](https://user-images.githubusercontent.com/106214324/226954478-76fb96c9-b169-44c4-a23b-438a26147741.jpeg)
-2. ![WhatsApp Image 2023-03-22 at 21 58 31](https://user-images.githubusercontent.com/106214324/226954899-4e17ef3f-7a0c-4558-9680-ef270e6a3b6f.jpeg)
+![WhatsApp Image 2023-03-22 at 21 58 32](https://user-images.githubusercontent.com/106214324/226954478-76fb96c9-b169-44c4-a23b-438a26147741.jpeg)
+![WhatsApp Image 2023-03-22 at 21 58 31](https://user-images.githubusercontent.com/106214324/226954899-4e17ef3f-7a0c-4558-9680-ef270e6a3b6f.jpeg)
 
 ### Database pada aplikasi ini dibuat menggunakan Firebase
+![Cuplikan layar 2023-03-22 220138](https://user-images.githubusercontent.com/106214324/226955360-ac224a1e-9528-486a-8156-edb7997b41bb.png)
