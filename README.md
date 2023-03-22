@@ -8,8 +8,8 @@ Pada tugas UTS yang diberikan adalah membuat program aplikasi sederhana mengguna
 Aplikasi yang dibuat adalah aplikasi catatan sederhana yang dapat dijalankan pada perangkat mobile.
 
 ## Link Download
-Expo : https://expo.dev/accounts/yustafk/projects/notaking/builds/4e46f3ba-d106-47dd-bc39-55727ed30d6e
-Drive: https://drive.google.com/file/d/1qSOiSLwe9fU0FBZSJ2K8Ws0VQYyZ7ptE/view?usp=sharing
+Expo : https://expo.dev/accounts/yustafk/projects/notaking/builds/4e46f3ba-d106-47dd-bc39-55727ed30d6e  
+Drive: https://drive.google.com/file/d/1qSOiSLwe9fU0FBZSJ2K8Ws0VQYyZ7ptE/view?usp=sharing  
 Aplikasi tidak bisa diupload ke Github karena melebihi size melebihi batas (>25mb)
 
 ## Fitur Aplikasi
